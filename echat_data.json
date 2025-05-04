@@ -1,0 +1,24 @@
+[
+    {
+      "Agent": "Rida Elharagua",
+      "Inbound_Chat": 43,
+      "Retour": 39.53,
+      "Avg_CSAT": 97.65,
+      "AHT": "00:15:12",
+      "WrapUpTime": "00:00:25",
+      "Score": 24,
+      "Quartile": "Q1"
+    },
+    {
+      "Agent": "Mohammed Bahji",
+      "Inbound_Chat": 18,
+      "Retour": 27.78,
+      "Avg_CSAT": 100.00,
+      "AHT": "00:14:43",
+      "WrapUpTime": "00:00:33",
+      "Score": 31,
+      "Quartile": "Q1"
+    }
+
+  ]
+  
