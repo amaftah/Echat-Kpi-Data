@@ -1,24 +1,172 @@
 [
-    {
-      "Agent": "Rida Elharagua",
-      "Inbound_Chat": 43,
-      "Retour": 39.53,
-      "Avg_CSAT": 97.65,
-      "AHT": "00:15:12",
-      "WrapUpTime": "00:00:25",
-      "Score": 24,
-      "Quartile": "Q1"
-    },
-    {
-      "Agent": "Mohammed Bahji",
-      "Inbound_Chat": 18,
-      "Retour": 27.78,
-      "Avg_CSAT": 100.00,
-      "AHT": "00:14:43",
-      "WrapUpTime": "00:00:33",
-      "Score": 31,
-      "Quartile": "Q1"
-    }
-
-  ]
-  
+  {
+    "Agent": "Rida Elharagua",
+    "Inbound_Chat": 43,
+    "Retour": 39.53,
+    "Avg_CSAT": 97.65,
+    "AHT": "00:15:12",
+    "WrapUpTime": "00:00:25",
+    "Score": 24,
+    "Quartile": "Q1"
+  },
+  {
+    "Agent": "Mohammed Bahji",
+    "Inbound_Chat": 18,
+    "Retour": 27.78,
+    "Avg_CSAT": 100.00,
+    "AHT": "00:14:43",
+    "WrapUpTime": "00:00:33",
+    "Score": 31,
+    "Quartile": "Q1"
+  },
+  {
+    "Agent": "Kawtar Al Badri",
+    "Inbound_Chat": 42,
+    "Retour": 40.48,
+    "Avg_CSAT": 96.47,
+    "AHT": "00:14:32",
+    "WrapUpTime": "00:00:40",
+    "Score": 41,
+    "Quartile": "Q1"
+  },
+  {
+    "Agent": "Malak Zouhair",
+    "Inbound_Chat": 39,
+    "Retour": 25.64,
+    "Avg_CSAT": 92.00,
+    "AHT": "00:17:10",
+    "WrapUpTime": "00:00:28",
+    "Score": 60,
+    "Quartile": "Q1"
+  },
+  {
+    "Agent": "Abderrahmane Maftah",
+    "Inbound_Chat": 41,
+    "Retour": 26.83,
+    "Avg_CSAT": 96.00,
+    "AHT": "00:16:21",
+    "WrapUpTime": "00:00:19",
+    "Score": 63,
+    "Quartile": "Q2"
+  },
+  {
+    "Agent": "Elhadji Omar Kane",
+    "Inbound_Chat": 46,
+    "Retour": 26.09,
+    "Avg_CSAT": 88.33,
+    "AHT": "00:16:30",
+    "WrapUpTime": "00:00:35",
+    "Score": 78,
+    "Quartile": "Q2"
+  },
+  {
+    "Agent": "Marouane Ait Bakessou",
+    "Inbound_Chat": 42,
+    "Retour": 33.33,
+    "Avg_CSAT": 87.14,
+    "AHT": "00:20:12",
+    "WrapUpTime": "00:04:26",
+    "Score": 81,
+    "Quartile": "Q2"
+  },
+  {
+    "Agent": "Khadija Sltini Amghari",
+    "Inbound_Chat": 43,
+    "Retour": 27.91,
+    "Avg_CSAT": 91.67,
+    "AHT": "00:24:00",
+    "WrapUpTime": "00:04:47",
+    "Score": 84,
+    "Quartile": "Q2"
+  },
+  {
+    "Agent": "Hasnaa Ait Safar",
+    "Inbound_Chat": 45,
+    "Retour": 24.44,
+    "Avg_CSAT": 84.29,
+    "AHT": "00:19:24",
+    "WrapUpTime": "00:04:21",
+    "Score": 90,
+    "Quartile": "Q3"
+  },
+  {
+    "Agent": "Khawla Loufa",
+    "Inbound_Chat": 45,
+    "Retour": 22.22,
+    "Avg_CSAT": 78.00,
+    "AHT": "00:25:18",
+    "WrapUpTime": "00:00:24",
+    "Score": 93,
+    "Quartile": "Q3"
+  },
+  {
+    "Agent": "Wissal Haider",
+    "Inbound_Chat": 43,
+    "Retour": 34.88,
+    "Avg_CSAT": 78.67,
+    "AHT": "00:25:18",
+    "WrapUpTime": "00:00:39",
+    "Score": 95,
+    "Quartile": "Q3"
+  },
+  {
+    "Agent": "Ichrak Benhoussa",
+    "Inbound_Chat": 42,
+    "Retour": 28.57,
+    "Avg_CSAT": 77.50,
+    "AHT": "00:15:32",
+    "WrapUpTime": "00:00:18",
+    "Score": 100,
+    "Quartile": "Q3"
+  },
+  {
+    "Agent": "Anass Mohane",
+    "Inbound_Chat": 45,
+    "Retour": 24.44,
+    "Avg_CSAT": 60.00,
+    "AHT": "00:17:48",
+    "WrapUpTime": "00:00:27",
+    "Score": 112,
+    "Quartile": "Q4"
+  },
+  {
+    "Agent": "Noureddine Benkirane",
+    "Inbound_Chat": 42,
+    "Retour": 16.67,
+    "Avg_CSAT": 65.71,
+    "AHT": "00:19:14",
+    "WrapUpTime": "00:00:19",
+    "Score": 120,
+    "Quartile": "Q4"
+  },
+  {
+    "Agent": "Youssef Khaliss",
+    "Inbound_Chat": 45,
+    "Retour": 22.22,
+    "Avg_CSAT": 74.11,
+    "AHT": "00:13:43",
+    "WrapUpTime": "00:00:19",
+    "Score": 129,
+    "Quartile": "Q4"
+  },
+  {
+    "Agent": "Salma Elouarga",
+    "Inbound_Chat": 44,
+    "Retour": 20.45,
+    "Avg_CSAT": 71.11,
+    "AHT": "00:26:12",
+    "WrapUpTime": "00:03:37",
+    "Score": 134,
+    "Quartile": "Q4"
+  },
+  {
+    "Agent": "Hamza Abousaid",
+    "Inbound_Chat": 45,
+    "Retour": 26.67,
+    "Avg_CSAT": 65.00,
+    "AHT": "00:25:15",
+    "WrapUpTime": "00:04:33",
+    "Score": 134,
+    "Quartile": "Q4"
+  }
+]
